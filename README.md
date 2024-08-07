@@ -1,6 +1,6 @@
 # Aprenda o básico de HTML e CSS
 
-Este repositório contém o código-fonte e os exemplos utilizados no vídeo "[Aprenda o básico de HTML e CSS](https://youtu.be/gZvFOHQDicc?si=lLUMc6soy93LyFnU)" do canal [Vitor Menoli](https://www.youtube.com/@vitor.menoli) no YouTube. O objetivo do vídeo e deste repositório é fornecer uma introdução prática aos fundamentos de HTML e CSS, ajudando iniciantes a darem seus primeiros passos no desenvolvimento web.
+Este repositório contém os exemplos utilizados no vídeo "[Aprenda o básico de HTML e CSS - Parte 1](https://youtu.be/gZvFOHQDicc?si=lLUMc6soy93LyFnU)" e "[Aprenda o básico de HTML e CSS - Parte 2](https://youtu.be/DbDwN-DKbcs)" do canal [Vitor Menoli](https://www.youtube.com/@vitor.menoli) no YouTube. O objetivo do vídeo e deste repositório é fornecer uma introdução prática aos fundamentos de HTML e CSS, ajudando iniciantes a darem seus primeiros passos no desenvolvimento web.
 
 ## Conteúdo
 
@@ -18,5 +18,3 @@ No vídeo, abordamos os seguintes tópicos:
 - Propriedades de layout: `background-color`, `padding`, `margin`, `border`
 - Como usar seletores de classe, ID e elementos
 - Conceitos de box model e espaçamento
-
-## Estrutura do Repositório

@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+}
+
+.paragrafo {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+#descricao {
+    font-family: monospace;
+}
+
+* {
+    text-align: center;
+    background-color: #232323;
+}

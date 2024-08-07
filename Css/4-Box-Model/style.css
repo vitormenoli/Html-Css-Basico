@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #232323;
+
+    /* Parte mais avançada */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#lista {
+    list-style-type: none;
+}
+
+.itens {
+    font-size: 25px;
+    font-weight: 700;
+    background-color: #77f377;
+    padding: 2rem;
+}
+
+#item1 {
+    margin: 5rem;
+}
+
+#item2 {
+    padding: 10rem;
+}
+
+#item3 {
+    border: 10px solid #000;
+    margin-top: 1rem;
+}
